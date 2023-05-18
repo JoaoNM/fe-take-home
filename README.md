@@ -1,6 +1,7 @@
 # fe-take-home
 
 Objective: Build a simple login & dashboard screen for a SaaS platform for small FMCG brands.
+Note: You should have access to the Visily designs. The PDF in this repo is just for quick reference. If you do not have the original Visily board, please contact us for access. 
 
 Requirements:
 * The application should be responsive and optimized for both desktop and mobile.
