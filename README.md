@@ -13,7 +13,6 @@ Requirements:
 Bonus:
 
 * Use an atomic state management solution (storing login state for example) 
-* Implement automated tests for your application.
 * Smooth animations and attention for detail
 * Other ideas to improve UI/UX of your own, if you have any, are welcome
 
